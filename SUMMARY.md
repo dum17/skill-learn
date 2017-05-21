@@ -5,8 +5,9 @@
 * [Introduction](README.md)
 
 ## 201704
-* [能长期伤害你，就表示他也拥有让你甘愿不离不弃的超能力](article-collection/mr6/2017/04/mr6-20170406.md)
 
+* [团体有个跟谁都好的“和事佬”，往往也把事情愈弄愈糟](article-collection/mr6/2017/04/mr6-20170405.md)
+* [能长期伤害你，就表示他也拥有让你甘愿不离不弃的超能力](article-collection/mr6/2017/04/mr6-20170406.md)
 * [家，是一杯综合好多个人生百态的混酒，尝起来只有“苦”](article-collection/mr6/2017/04/mr6-20170407.md)
 * [明明已经很自由，还嫌自己不够自由，其实他是“自私”](article-collection/mr6/2017/04/mr6-20170410.md)
 * [小朋友要趁早好好栽培他们做“事”，不是做“家事”](article-collection/mr6/2017/04/mr6-20170411.md)
