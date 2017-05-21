@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 
 ## 201704
-* [mr6-20170411](article-collection/mr6/2017/04/mr6-20170411.md)
+* [小朋友要趁早好好栽培他们做“事”，不是做“家事”](article-collection/mr6/2017/04/mr6-20170411.md)
 * [一个关于主管和工程师的笑话，说明了上级与基层的差异](article-collection/mr6/2017/04/mr6-20170412.md)
 * [忍让也要算次数，滥好人往往都是别人的“替死鬼”](article-collection/mr6/2017/04/mr6-20170417.md)
 * [当你一直无法让某人满意，小心你可能只是他的出气筒](article-collection/mr6/2017/04/mr6-20170420.md)
