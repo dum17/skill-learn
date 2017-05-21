@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 
 ## 201704
+* [能长期伤害你，就表示他也拥有让你甘愿不离不弃的超能力](article-collection/mr6/2017/04/mr6-20170406.md)
 
 * [家，是一杯综合好多个人生百态的混酒，尝起来只有“苦”](article-collection/mr6/2017/04/mr6-20170407.md)
 * [明明已经很自由，还嫌自己不够自由，其实他是“自私”](article-collection/mr6/2017/04/mr6-20170410.md)
